@@ -34,7 +34,6 @@ Please make sure to update test as appropiate.
 
 
 [report]: https://drive.google.com/file/d/1Rm4sfPzMGTZ1KSlMDtqBpuL5HoHtQ83W/view?usp=sharing
-[git1]: 
 [git2]: https://github.com/jorgee19
 [linkedin1]: https://www.linkedin.com/in/silvia-andrea-uribe-rangel-6a1238179/
 [linkedin2]: https://www.linkedin.com/in/jorge-alberto-suarez-camacho-992214143/
