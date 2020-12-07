@@ -9,6 +9,7 @@ This project was created for Math subject in _Universidad de Guadalajara_ in Gua
 This code was made with other 2 persons, althoug the project was made with several people.
 
 Silvia Uribe - [Linkedin][linkedin1]
+
 Jorge Suarez - [GitHub][git2] - [Linkedin][linkedin2]
 
 ## Needed Libraries
